@@ -6,3 +6,8 @@ This repository contains Jupyter Notebook files that provide a practical guide t
 
 - [Basic Math and Calculus]
 - [Probability]
+- [Descriptive and Inferential Statistics]
+- [Linear Algebra]
+- [Linear Regression]
+- [Logistic Regression and Classification]
+- [Neural Networks]
