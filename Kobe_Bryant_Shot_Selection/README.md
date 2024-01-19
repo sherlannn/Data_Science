@@ -2,7 +2,7 @@
 
 ### This project presents a predictive modeling approach for determining the success or failure of shots made by Kobe Bryant during his NBA career using various machine learning algorithms. The main stages in this research include data cleaning and preprocessing, exploratory data analysis (EDA), feature engineering, selecting relevant features, and finally, implementing different algorithms on this binary experiment. The performance of each algorithm is evaluated, and as the final step, a  voting ensemble approach is explored to improve model accuracy.
 
-### You can find the related kaggle competition using this link : (Kobe Bryant Shot Selection)[https://www.kaggle.com/competitions/kobe-bryant-shot-selection/overview]
+### You can find the related kaggle competition using this link : https://www.kaggle.com/competitions/kobe-bryant-shot-selection/overview
 
 ### Our proposed method involves several key steps which are explained as follows:
 1. Data Introduction: The dataset is loaded, and basic information about its structure
