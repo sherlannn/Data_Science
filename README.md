@@ -6,10 +6,10 @@ Welcome to my Data Science repository, which contains a variety of projects focu
 ## Projects
 
 ### 1. **Cryptocurrencies Price Prediction**
-   - A machine learning model that predicts cryptocurrency prices using historical data and various algorithms.
+   - Using NNs to predict cryptocurrency prices using historical data.
 
 ### 2. **Kobe Bryant Shot Selection Analysis**
-   - Analyzing Kobe Bryant’s shot selection using basketball game data to uncover insights on performance.
+   - Analyzing Kobe Bryant’s shot selection using basketball game data to uncover insights and building ensemble ML model to do some magic.
 
 ### 3. **Essential Math for Data Science**
    - A collection of mathematical foundations important for data science, covering key topics like linear algebra and calculus.
@@ -23,10 +23,5 @@ Welcome to my Data Science repository, which contains a variety of projects focu
 ### 6. **Essential Matplotlib for Data Science**
    - A guide to visualizing data using Matplotlib, focusing on graphs, plots, and charts for analysis.
 
-## Technologies Used
-- Python
-- Jupyter Notebooks
-- Machine Learning
-- Data Visualization
 
 Feel free to explore the projects and contribute!
