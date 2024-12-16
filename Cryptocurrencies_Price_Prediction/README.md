@@ -17,13 +17,13 @@ This project leverages seven different neural network models to predict Ethereum
 
 2. **Neural Network Models**  
    - Implemented and compared seven NN architectures:  
-     - Fully Connected Neural Network (FCNN)  
+     - MLP  
      - Recurrent Neural Network (RNN)  
      - Long Short-Term Memory (LSTM)  
      - Gated Recurrent Unit (GRU)  
      - FeedForward Network (FFN) 
      - Convolutional Neural Network (CNN)  
-     - Hybrid CNN-LSTM  
+     - dilated CNN  
 
 3. **Evaluation Metrics**  
    - Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² Score.  
